@@ -1,0 +1,24 @@
+<layer-list 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 
+        android:id="@android:id/background">
+        <bitmap 
+            android:src="@drawable/dictate_cover_back"
+            android:tileMode="repeat">
+        </bitmap>
+    </item>
+    <item 
+        android:id="@android:id/progress">
+        <layer-list 
+            xmlns:android="http://schemas.android.com/apk/res/android" >
+            <item>
+                <clip >
+                    <bitmap 
+                        xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:src="@drawable/dictate_cover_front"
+                        android:tileMode="repeat"/>
+                </clip>
+            </item>
+        </layer-list>
+    </item>
+</layer-list>

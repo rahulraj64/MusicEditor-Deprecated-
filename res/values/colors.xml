@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="TURQUOISE">#1abc9c</color>
+    <color name="EMERALD">#2ecc71</color>
+    <color name="PETER_RIVER">#3498db</color>
+    <color name="AMETHYST">#9b59b6</color>
+    <color name="WET_ASPHALT">#34495e</color>
+    <color name="GREEN_SEA">#16a085</color>
+    <color name="NEPHRITIS">#27ae60</color>
+    <color name="BELIZE_HOLE">#2980b9</color>
+    <color name="MIDNIGHT_BLUE">#8e44ad</color>
+    <color name="SUN_FLOWER">#f1c40f</color>
+    <color name="CARROT">#e67e22</color>
+    <color name="ALIZARIN">#e74c3c</color>
+    <color name="CLOUDS">#ecf0f1</color>
+    <color name="CONCRETE">#95a5a6</color>
+    <color name="ORANGE">#f39c12</color>    
+    <color name="PUMPKIN">#d35400</color>
+    <color name="POMEGRANATE">#c0392b</color>
+    <color name="SILVER">#bdc3c7</color>
+    <color name="ASBESTOS">#7f8c8d</color>
+    <color name="ASH">#4a4a4a</color>
+    <color name="CYAN">#0DE4FF</color>
+</resources>

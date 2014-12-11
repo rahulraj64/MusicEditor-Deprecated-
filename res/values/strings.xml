@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRecording</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_audio__record__player">Audio_Record_Player</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="radio_append">" append "</string>
+     <string name="radio_insert">" insert "</string>
+      <string name="radio_overwrite">" overwrite "</string>
+    
+    <string-array name="operations">
+        <item>" append "</item>
+        <item>" insert  "</item>
+        <item>" overwrite "</item>
+    </string-array>
+</resources>
